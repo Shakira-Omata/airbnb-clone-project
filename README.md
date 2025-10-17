@@ -83,6 +83,57 @@ Text (secondary): #717171
 - Makes Collaboration easy among developers 
 - Accurate implementation of spacing, typography, and colors contributes to a smoother and more engaging interface.
 
+## Project Roles and Responsibilities.
+
+Frontend Developers
+Oversees project timeline, task allocation, and communication among teams.
+Ensures timely delivery and smooth coordination between departments.
+Implement UI components, integrate APIs, and ensure responsive design.
+Create an intuitive and visually consistent user experience.
+Create mockups, maintain Figma design system, and ensure visual consistency.
+Enhance usability and align visuals with brand identity.
+Define project requirements, prioritize features, and ensure business alignment.
+Keep the project aligned with stakeholder goals and user needs.
+Manage deployment, CI/CD, and server infrastructure.
+Ensure stable, scalable, and secure deployment pipelines.
+
+
+Backend Developers
+Build and maintain APIs, handle data logic, and connect to the database.
+Power the core functionality and ensure data integrity.
+
+QA/Testers
+Write and execute test cases, identify bugs, and verify features.
+Guarantee software reliability and user satisfaction.
+
+## UI Component Patterns
+Planned reusable components
+Navbar
+Logo, Search bar, User navigation (login/avatar), Responsive menu (mobile hamburger)
+
+PropertyCard
+Image, Price, Location, Rating, Favorite (heart) button, Clickable to detail view
+
+PropertyGallery / Carousel
+Full‑width hero image, thumbnails, lightbox behavior on click
+
+BookingForm
+Date picker, Guests selector, Price breakdown, CTA (Reserve)
+
+Footer
+Site links, company info, social links, copyright
+
+FiltersPanel
+Location input, price range, type, amenities, date quick pick
+
+## Best Practices
+Code organization: feature folders, small components, single responsibility
+Version control: feature branches, PR reviews, descriptive commits
+Responsive design: mobile‑first CSS, utility classes or CSS‑in‑JS
+Documentation: keep README and component docs updated
+Testing: unit tests for critical logic, integration tests for booking flow
+
+
 
 
 
