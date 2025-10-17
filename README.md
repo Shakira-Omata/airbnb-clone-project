@@ -58,3 +58,33 @@ UI/UX Element: Booking summary, payment form, progress indicator, confirmation m
 ## Importance of a User-Friendly Design.
 A user-friendly design in a booking system enhances trust, encourages conversions, and minimizes frustration. Clear navigation and intuitive layouts help users quickly find and book their desired property. A seamless experience ensures higher user satisfaction, increases repeat visits, and builds confidence in the platform’s reliability.
 
+## Figma Design Specifications.
+Color Styles
+
+Primary: #FF5A5F
+Secondary: #008489
+Background: #FFFFFF
+Text (primary): #222222
+Text (secondary): #717171
+
+## Typography
+| Element                 | Font Family     | Font Weight     | Font Size | Usage                          |
+| ----------------------- | --------------- | --------------- | --------- | ------------------------------ |
+| **Heading 1 (H1)**      | Inter / Poppins | 700 (Bold)      | 32px      | Main page titles               |
+| **Heading 2 (H2)**      | Inter / Poppins | 600 (Semi-Bold) | 24px      | Section headers                |
+| **Body Text**           | Inter / Poppins | 400 (Regular)   | 16px      | Paragraphs and descriptions    |
+| **Small Text / Labels** | Inter / Poppins | 400 (Regular)   | 14px      | Buttons, captions, form labels |
+
+
+## Importance of Identifying Design Properties
+
+- Maintains a unified look across all pages
+- Helps developers code faster by following clear specs.
+- Makes Collaboration easy among developers 
+- Accurate implementation of spacing, typography, and colors contributes to a smoother and more engaging interface.
+
+
+
+
+
+
